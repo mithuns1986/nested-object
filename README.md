@@ -1,6 +1,6 @@
 # nested-object
 
-Certainly! Here's an example implementation of a function in Python that takes a nested object and a key and returns the corresponding value. The function uses recursion to traverse the nested object and locate the desired value.
+Implementation of a function in Python that takes a nested object and a key and returns the corresponding value. The function uses recursion to traverse the nested object and locate the desired value.
 
 ```python
 def get_value_from_nested_object(nested_object, key):
